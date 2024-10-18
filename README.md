@@ -41,6 +41,11 @@ This project uses a convolutional neural network (CNN) based on popular architec
 ## Results
 Accuracy: Achieved ~94.6% accuracy on validation data.
 
+![Screenshot 2024-10-18 215408](https://github.com/user-attachments/assets/59751e09-a808-4b10-a641-fcb4aa682644)
+
+![Screenshot 2024-10-18 215352](https://github.com/user-attachments/assets/5786b02f-5501-48f1-a8c4-2ee566d27351)
+
+
 
 ## Future Improvements
 - Add additional classes for "Incorrectly Worn Mask."
