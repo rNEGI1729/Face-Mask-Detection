@@ -26,7 +26,7 @@ The dataset should contain images with two categories:
 Mask: Images of individuals wearing masks.
 No Mask: Images of individuals not wearing masks.
 Datasets can be found or created from sources like Kaggle’s Face Mask Detection Dataset.
-Dataset Link : https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
+# Dataset Link : https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
 
 Organize images into folders (data/mask and data/no_mask) within a main data directory.
 Ensure you have a roughly balanced number of images for each class.
